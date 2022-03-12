@@ -1,5 +1,3 @@
 # Abstract
-* This is a simple java project which display a formatted calender
-* This get the month and year as input from user
-* By clicking search button it displays the month of the year and the holidays in that month with the date
-* By using the navigation buttons like previous and next we can simply move to the next or previous months
+* This Pong Game Java Project game has been designed using Java Applet. It has double player option. It provides users a new experience that is different from the usual pong games available
+* This consists of two pads on both sides and a ball, and the player has to make sure that he hits the ball with the pad without missing it to win the game and score more. 
